@@ -1,0 +1,30 @@
+_repo: The-Book-HunterA-New-Edition-with-a-Memoir-of-the-Author_22136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burton, John Hill
+    birthdate: 1809
+    deathdate: 1881
+    gutenberg_agent_id: '25134'
+    url: http://www.gutenberg.org/2009/agents/25134
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bibliomania'
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+title: 'The Book-Hunter
+
+  A New Edition, with a Memoir of the Author'
+url: http://www.gutenberg.org/ebooks/22136
