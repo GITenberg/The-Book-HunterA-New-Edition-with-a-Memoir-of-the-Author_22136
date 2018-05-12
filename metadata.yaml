@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25134'
     url: http://www.gutenberg.org/2009/agents/25134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22136#The-Book-HunterA-New-Edition-with-a-Memoir-of-the-Author
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2007-07-24'
 gutenberg_type: Text
